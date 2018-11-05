@@ -1,2 +1,3 @@
-# Rendering
+# Shading
+
 OpenGL
